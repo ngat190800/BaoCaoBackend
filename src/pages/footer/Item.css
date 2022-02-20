@@ -1,0 +1,9 @@
+.table-fruits p:hover{
+    font-family: bold;
+    font-weight: 700;
+}
+.footer-img {
+    vertical-align: middle;
+    border-style: none;
+    width: 50%;
+}

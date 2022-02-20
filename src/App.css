@@ -1,0 +1,37 @@
+.menu{
+    margin-top: 40px;
+    display: flex;
+    margin-left: -230px;
+}
+.menu a{
+    color:  black;
+}
+.nav-link{
+    margin-left:0px;
+    display: block;
+    padding: .5rem 0.5rem;
+}
+.stt-cart {
+    font-size: 10px; 
+      width: 15px;
+      height: 15px;
+      background-color:  rgb(236, 141, 173);
+       text-align: center;
+      color: white;
+       border-radius: 15px;
+     }
+.numberCartPar{
+    position: relative;
+}
+.numberCartChil{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    color:red;
+    z-index: 999;
+    top:10px;
+    left: 45px;
+    /* background-color: gray; */
+
+}
+    

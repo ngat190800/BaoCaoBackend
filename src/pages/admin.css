@@ -1,0 +1,59 @@
+/* button */
+.snip {
+    background-color: #FF6666;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'BenchNine', Arial, sans-serif;
+    font-size: 1em;
+    font-size: 15px;
+    line-height: 1em;
+    margin: 7px 25px;
+    outline: none;
+    padding: 12px 5px 10px;
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  
+  .snip:before,
+  .snip:after {
+    border-color: transparent;
+    -webkit-transition: all 0.25s;
+    transition: all 0.25s;
+    border-style: solid;
+    border-width: 0;
+    content: "";
+    height: 24px;
+    position: absolute;
+    width: 24px;
+  }
+  
+  .snip:before {
+    border-color: #FF6666;
+    border-top-width: 2px;
+    left: 0px;
+    top: -5px;
+  }
+  
+  .snip:after {
+    border-bottom-width: 2px;
+    border-color: #FF6666;
+    bottom: -5px;
+    right: 0px;
+  }
+  
+  .snip:hover,
+  .snip.hover {
+      background-color: #51b03c;
+    }
+    
+    .snip:hover:before,
+    .snip.hover:before,
+    .snip:hover:after,
+    .snip.hover:after {
+      height: 100%;
+      width: 100%;
+    }
+  

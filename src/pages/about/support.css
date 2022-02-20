@@ -1,0 +1,13 @@
+.itemSupport {
+  display: flex;
+}
+.img-support {
+  margin-top: 43px;
+}
+.img-support img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40%;
+  width:50%
+}

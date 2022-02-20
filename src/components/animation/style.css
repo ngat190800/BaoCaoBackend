@@ -1,0 +1,16 @@
+.Animation {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .animation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    will-change: opacity;
+  }
+  

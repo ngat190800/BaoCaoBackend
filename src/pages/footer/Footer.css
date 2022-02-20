@@ -1,0 +1,128 @@
+.newsletters {
+  background-color:rgb(224, 133, 137);
+  height: auto;
+    margin-top:5%;
+  }
+  .organic {
+    margin-left: -65px;
+  }
+  .organic p{
+    margin-left: -65px;
+  margin-top: 30px;
+  font-size: 120px;
+  opacity: 0.1;
+  margin-left: -10px;
+  z-index: 1;
+  font-family: sail-regular;
+  }
+  .out-newsletter {
+    font-size: 35px;
+    margin-top: -140px;
+    font-weight: 600;
+  }
+  .miss-the-update{
+    font-size: 20px;
+  }
+  
+.input-btn {
+    margin-top: 90px;
+    margin-left: 20px;
+    display: flex;
+    margin-bottom: 87px;
+  }
+  .input-btn input{
+    margin-top: 0px;
+    border: 1px solid #ffffff;
+    background-color: rgb(83, 36, 38);
+    height: 60px;
+    width: 100%;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+  }
+  .input-btn button{
+    /* margin-right:-58px; */
+    width: 250px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    height: 60px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    padding-left: 15px;
+    font-size: 14px;
+  }
+  .text-add{
+    padding-left:30px;
+   }
+   .group-organic-instagrams{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .organic-instagrams {
+    font-family:none;
+    font-size: 120px;
+    opacity: 0.2;
+    /* display: flex;
+    justify-content: center; */
+  }
+  .instagrams{
+    position: absolute;
+    top: 35%;
+    font-size: 30px;
+  }
+  .extend{
+    margin-top:20px;
+  }
+  
+.fruits{
+  padding-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.size-fruits{
+  width: 100%;
+  margin-bottom: 25px;
+}
+.title-fruits{
+  padding-top: 43px;
+    margin-left: -35px;
+    margin-right: -71px;
+}
+.content-fruit p{
+  margin-top: 10px;
+}
+.content-fruits b{
+  padding-left: 5px;
+}
+.footer{
+  margin-top: 45px;
+  background-color: #dbd7d7;
+  /* background-image: url(../image/about-us/footer.png); */
+  height:100px;
+ font-size: 14px;
+ margin-bottom: 20px;
+}
+  .title-footer{
+    margin-top:27px;
+    letter-spacing: 1px;
+  }
+  .extend{
+    margin-top:20px;
+  }
+
+.bank {
+  justify-content: flex-end;
+   display: flex;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+/* .bank div img{
+padding-left: 10px;
+} */
+
+.bank img{
+  margin: 0% 3%;
+  height: 25px;
+  width: auto;
+}

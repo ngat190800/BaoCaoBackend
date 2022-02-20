@@ -1,0 +1,64 @@
+.contentProduct:hover div {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+.contentProduct {
+  overflow: hidden;
+}
+.contentProduct div {
+  -webkit-transition: all 0.7s ease;
+  transition: all 0.7s ease;
+}
+
+.contentProduct {
+  overflow: hidden;
+  color: #848282;
+  padding: 5%;
+  background-color: whitesmoke;
+  border-radius: 5%;
+  margin-top: 3%;
+  /* height: max-content; */
+}
+
+.Product {
+  text-align: center;
+  color:  rgb(236, 141, 173);
+  font-size: 150%;
+  font-style: oblique;
+  font-weight: 900;
+}
+
+.title {
+  text-align: center;
+  color: #333;
+  font-size: 14px;
+  font-weight: normal;
+}
+.cost {
+  text-align: center;
+  color:  rgb(236, 141, 173);
+  font-size: 20px;
+  font-size: 10px;
+  line-height: 10px;
+  font-weight: bold;
+}
+.border-item {
+  border-radius: 20px;
+  border: 1px solid rgb(107, 109, 112);
+  background-color: rgb(231, 225, 225);
+  height: 100%;
+  padding: 20px;
+}
+.img-item {
+  padding: 10px;
+  border-radius: 15px;
+  width: 100%;
+}
+.items {
+  margin-top: 3%;
+}
+.group {
+  font-style: italic;
+  color: cadetblue;
+  font-size: 12px;
+}

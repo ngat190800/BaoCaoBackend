@@ -1,0 +1,141 @@
+.wellcome-content {
+    color:  rgb(236, 141, 173);
+    font-size: 35px;
+    margin-top: 100px;
+    }
+    .content2 {
+        font-size: 20px;
+        margin-top: 25px;
+        font-family: domine-regular;
+        color:#333333;
+        line-height: 1.7;
+        }
+        .content3 {
+        font-size: 18px;
+        margin-top: 17px;
+        line-height: 1.7;
+        }
+        .content4 {
+        margin-top: 30px;
+        font-size: 18px;
+        
+        }
+        .content2 span {
+        color:  rgb(236, 141, 173);
+        text-decoration: underline;
+        }
+        .content-backgrounnd {
+            background-color: #faf9f7;
+        }
+   
+.why-choose {
+    margin-top: 50px;
+}
+.why-choose hr{
+    border: 1px solid #FF6699;
+    width: 17%;
+    margin-left: 0px;
+}   
+.content1-support {
+    font-size: 20px;
+    color: #99d1eb;
+    margin-top: 20px;
+    margin-left: 25px;
+    text-align: center;
+  }  
+  .content2-support{
+    margin-top: 5px;
+      font-size: 18px;
+      text-align: center;
+      padding: 0px 20px 0px 20px;
+  }
+  .content2-suport{
+    margin-top: 25px;
+      font-size: 20px;
+  }  
+  .content2-support p {
+     margin-bottom: 30px; 
+     color:#333333;
+  }
+  .content-3-suport {
+    margin-top: 17px;
+    color:#fff;
+text-align: center;
+border-radius: 50px;
+background: rgb(224, 133, 137);
+padding: 10px;
+width: 150px;
+height: 42px;
+border: none;
+}
+.support-content{
+  display: flex;
+}
+.img-free {
+    margin-top: 43px;
+    }
+.img-free img {
+        display: block;
+         margin-left: auto;
+         margin-right: auto;
+    }
+ .content1-free-product {
+        margin-top: 24px;
+        font-size: 20px;
+        color: #99d1eb;
+        display: flex;
+        justify-content: center;
+        }
+ .content2-free-product {
+    font-size: 18px;
+    margin-top: 13px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 25px 0px 25px;
+    margin-left: 9px;
+}   
+
+.content-introduce {
+    margin-top: 30px;
+    }
+    .content-two-introduce {
+      margin-top: 45px;
+      font-weight: 400;
+      font-size: 20px;
+      /* margin-left: -20px; */
+    }
+    .content-three-introduce {
+      margin-top: 3px;
+      color:  rgb(236, 141, 173);
+      font-size: 16px;
+      /* margin-left: -21px; */
+    }
+    .comma{
+      margin-top: 105px;
+      /* margin-left: -35px; */
+    }
+    .girl-introduce {
+    display: flex;
+    padding-top: 20px;
+    }
+    .girl-end{
+      margin-right: -15px;
+      width: 100%;
+        height: 100%;
+    }
+    .girl-end img{
+      width:100%;
+      margin-top: 90px
+    }
+    
+    .img2-introduce {
+    margin-left: 65px;
+    }
+    .img3-introduce {
+    margin-left: 47px;
+     } 
+     .img3-introduce img {
+        position: relative;
+        z-index: 2;
+     }     
