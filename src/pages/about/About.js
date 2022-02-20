@@ -69,7 +69,7 @@ class Content extends Component {
       <div className="container">
         <p className="wellcome-content">Welcome to Japan</p>
         <p className="content2">
-        Hàng Nhật nội địaaaaa (JDM - Japanese Domestics Market) được hiểu là các loại hàng hóa được sản xuất chỉ dành riêng cho thị trường Nhật, cho người dân Nhật tiêu dùng. Hàng Nhật nội địa có thể được sản xuất bởi các công ty của Nhật hoặc thông qua các công ty đa quốc gia ký hợp đồng sản xuất riêng cho thị trường Nhật.
+        Hàng Nhật nội địa (JDM - Japanese Domestics Market) được hiểu là các loại hàng hóa được sản xuất chỉ dành riêng cho thị trường Nhật, cho người dân Nhật tiêu dùng. Hàng Nhật nội địa có thể được sản xuất bởi các công ty của Nhật hoặc thông qua các công ty đa quốc gia ký hợp đồng sản xuất riêng cho thị trường Nhật.
         </p>
         <p className="content3">
         Hàng Nhật nội địa có một số đặc điểm đó là gần như toàn bộ trên bao bì sản phẩm đều là chữ Nhật ngoài chữ Made in Japan, điều này cho thấy tinh thần dân tộc cực cao của xứ sở Phù Tang. Đặc biệt, đối với các sản phẩm mỹ phẩm thì có hạn dùng là 3 năm kể từ khi mở nắp và thường thì nhà sản xuất họ sẽ không ghi hạn sử dụng mà thay vào đó là kiểm soát bằng mã code
